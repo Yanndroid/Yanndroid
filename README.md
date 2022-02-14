@@ -1,6 +1,6 @@
-### [<img src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="50" height="50" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<img src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="50" height="50" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![Yanndroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yanndroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### My Apps
+[<img src="https://github.com/Yanndroid/Sudoku/blob/master/readme-res/icon.png" height="75"/>](https://github.com/Yanndroid/Sudoku) [<img src="https://github.com/Yanndroid/hKtweaks-OneUI/blob/master/readme-res/icon.png" height="75"/>](https://github.com/Yanndroid/hKtweaks-OneUI) [<img src="https://github.com/Yanndroid/Notifer/blob/master/readme-res/icon.png" height="75"/>](https://github.com/Yanndroid/Notifer) [<img src="https://github.com/Yanndroid/Metronome/blob/master/readme-res/icon.png" height="75"/>](https://github.com/Yanndroid/Metronome) [<img src="https://github.com/Yanndroid/NotiNotes/blob/master/readme-res/icon.png" height="75"/>](https://github.com/Yanndroid/NotiNotes) 
