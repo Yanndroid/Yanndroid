@@ -1,5 +1,3 @@
-[![](https://readme-typing-svg.herokuapp.com?color=808080&vCenter=true&width=500&lines=Hey+there!+It's+me%2C+Yanndroid+aka+Jesus.;I'm+18+years+old+and+live+in+Germany.;Currently%2C+I+have+a+coding+addiction+%3A%29.;What+I'm+working+on+you+ask%3F;Simple!+A+lot+of+OneUI+stuff...;Anyways%2C+have+a+great+day!)](https://git.io/typing-svg)
-
 [![](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> My Apps
