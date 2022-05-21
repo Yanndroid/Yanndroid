@@ -12,3 +12,4 @@
 [<img title="Metronome" src="https://github.com/Yanndroid/Metronome/blob/master/readme-res/icon.png" width="75"/>](https://github.com/Yanndroid/Metronome)
 [<img title="NotiNotes" src="https://github.com/Yanndroid/NotiNotes/blob/master/readme-res/icon.png" width="75"/>](https://github.com/Yanndroid/NotiNotes)
 [<img title="Samsung My Files Root Extension" src="https://github.com/Yanndroid/Samsung-My-Files-Root-Extension/blob/master/readme-res/icon.png" width="75"/>](https://github.com/Yanndroid/Samsung-My-Files-Root-Extension)
+[<img title="MagiskToggle" src="https://github.com/Yanndroid/MagiskToggle/blob/master/readme-res/icon.png" width="75"/>](https://github.com/Yanndroid/MagiskToggle)
