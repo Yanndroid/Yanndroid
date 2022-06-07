@@ -1,3 +1,8 @@
+
+[<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="75" />](https://paypal.me/YanndroidDev)
+[<img src="https://i.redd.it/snoovatar/avatars/1144c6a5-4319-4405-b719-3ff9483b2dcf.png" height="75" />](https://www.reddit.com/user/Yanndroid)
+
+## <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> Stats
 [![](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> Organizations
