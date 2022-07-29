@@ -17,12 +17,13 @@
 [<img title="MagiskToggle" src="https://github.com/Yanndroid/MagiskToggle/blob/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/MagiskToggle)
 
 ### <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> &nbsp; Stats
-[![](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=true)
 
 <div align="center">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" />](https://t.me/yanndroid)
-[<img src="https://charlottenc.gov/cats/PublishingImages/Reddit_Mark_OnWhite.png" height="50" />](https://www.reddit.com/user/Yanndroid)
-[<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="50" />](https://paypal.me/YanndroidDev)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" />](https://t.me/yanndroid)
+[<img src="https://charlottenc.gov/cats/PublishingImages/Reddit_Mark_OnWhite.png" height="40" />](https://www.reddit.com/user/Yanndroid)
+[<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="40" />](https://paypal.me/YanndroidDev)
 
 </div>
