@@ -11,7 +11,7 @@
 [<img title="Metronome" src="https://github.com/Yanndroid/Metronome/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Metronome)
 
 [<img title="hKtweaks OneUI" src="https://github.com/Yanndroid/hKtweaks-OneUI/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/hKtweaks-OneUI) &nbsp;
-[<img title="Magisk OneUI" src="https://github.com/Yanndroid/Magisk-OneUI/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Magisk-OneUI)
+[<img title="Magisk OneUI" src="readme-res/magisk.png" width="60"/>](https://github.com/Yanndroid/Magisk-OneUI)
 
 [<img title="Samsung My Files Root Extension" src="https://github.com/Yanndroid/Samsung-My-Files-Root-Extension/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Samsung-My-Files-Root-Extension) &nbsp;
 [<img title="MagiskToggle" src="https://github.com/Yanndroid/MagiskToggle/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/MagiskToggle)
