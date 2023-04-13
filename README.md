@@ -6,7 +6,7 @@
 ### <img align="left" loading="lazy" src="readme-res/cats.gif" width="30" /> &nbsp; Apps / Mods / Projects
 [<img title="Sudoku" src="https://github.com/Yanndroid/Sudoku/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Sudoku) &nbsp;
 [<img title="NotiNotes" src="https://github.com/Yanndroid/NotiNotes/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/NotiNotes) &nbsp;
-[<img title="DualWallpaper" src="https://github.com/Yanndroid/DualWallpaper/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/DualWallpaper) &nbsp;
+[<img title="DualWallpaper" src="https://github.com/Yanndroid/DualWallpaper/raw/master/readme-res/icon_day.png" width="60"/>](https://github.com/Yanndroid/DualWallpaper) &nbsp;
 [<img title="Notifer" src="https://github.com/Yanndroid/Notifer/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Notifer) &nbsp;
 [<img title="Metronome" src="https://github.com/Yanndroid/Metronome/raw/master/readme-res/icon.png" width="60"/>](https://github.com/Yanndroid/Metronome)
 
