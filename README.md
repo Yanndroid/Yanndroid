@@ -19,7 +19,7 @@ Anyway, have a nice day :).
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndroid&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=true)
 
 ### <img align="left" loading="lazy" src="readme-res/cats.gif" width="30" /> &nbsp; Organizations
 [<img title="OneUI Project" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/101518500?v=4&fit=cover&mask=circle" width="70"/>](https://github.com/OneUIProject) &nbsp;
