@@ -12,7 +12,9 @@ Anyway, have a nice day :).
 <div align="center">
 
 [<img src="readme-res/telegram.png" height="40" />](https://t.me/yanndroid) &nbsp;
+[<img src="readme-res/discord.png" height="40" />](https://discordapp.com/users/456054429322444810) &nbsp;
 [<img src="readme-res/reddit.png" height="40" />](https://www.reddit.com/user/Yanndroid) &nbsp;
+[<img src="readme-res/email.png" height="40" />](mailto:yanndroid.dev@gmail.com) &nbsp;
 [<img src="readme-res/playstore.png" height="40" />](https://play.google.com/store/apps/dev?id=5974502967924582562) &nbsp;
 [<img src="readme-res/paypal.png" height="40" />](https://paypal.me/YanndroidDev) &nbsp;
 
