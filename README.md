@@ -3,7 +3,7 @@
 Hi, I'm Yann.
 
 I'm a German computer science student attending KIT and I love free stuff.
-That's why I'm returning the favor, by sharing all my projects here.
+That's why I'm returning the favor by sharing all my projects here.
 
 While my primary focus is on Android development, I also find pleasure in
 reverse engineering and repurposing devices for unintended uses.
