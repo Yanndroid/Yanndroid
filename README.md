@@ -1,12 +1,14 @@
 ### <img align="left" loading="lazy" src="readme-res/cats.gif" width="30" /> &nbsp; About me
 ```
-Hi there, you can call me Yann.
-I'm a German computer science student at KIT and I love free stuff.
-That's why I'm returning the favor by open sourcing all my projects here.
-My interest lies mostly in Android development, but reverse engineering
-stuff, to use it for what it wasn't made for is also fun.
-Java and Python are my favorite languages to code with.
-Anyway, have a nice day :).
+Hi, I'm Yann.
+
+I'm a German computer science student attending KIT and I love free stuff.
+That's why I'm returning the favor, by sharing all my projects here.
+
+While my primary focus is on Android development, I also find pleasure in
+reverse engineering and repurposing devices for unintended uses.
+Java and Python are my preferred programming languages, though I also
+code in Kotlin, JavaScript, and C.
 ```
 
 <div align="center">
